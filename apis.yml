@@ -8,11 +8,14 @@ tags:
   - Fashion
   - Apparel
   - Fast Fashion
-description: 'A Spanish multinational fashion group and the world''s largest apparel retailer operating brands including Zara, Massimo Dutti, and Pull&Bear. Known for its fast-fashion model with rapid design-to-store turnaround times.'
+description: 'A Spanish multinational fashion group and the world''s largest apparel retailer operating brands including Zara, Massimo Dutti, and Pull&Bear. Known for its fast-fashion model with rapid design-to-store turnaround times. No public developer portal or open API catalogue was located on inditex.com.'
 created: '2026-05-05'
-modified: '2026-05-05'
+modified: '2026-05-16'
 specificationVersion: '0.19'
 apis: []
 common:
   - type: Website
     url: https://www.inditex.com/
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com

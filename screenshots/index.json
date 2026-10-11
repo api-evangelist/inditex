@@ -1,0 +1,11 @@
+[
+  {
+    "repo": "inditex",
+    "captured_at": "2026-10-11T190443",
+    "source_url": "https://www.inditex.com/",
+    "source_type": "Website",
+    "file": "inditex-2026-10-11T190443.png",
+    "bytes": 565946,
+    "capture": "playwright-local"
+  }
+]

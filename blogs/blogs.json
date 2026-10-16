@@ -1,0 +1,14 @@
+{
+  "repo": "inditex",
+  "feeds": [
+    {
+      "source": "https://www.inditex.com/itxcomweb/us/en/press/news",
+      "feed_url": "https://www.inditex.com/itxcomweb/us/en/press/news",
+      "title": "",
+      "saved": 0,
+      "method": "none"
+    }
+  ],
+  "post_count": 0,
+  "fetched": "2026-10-10T13:15:00Z"
+}
